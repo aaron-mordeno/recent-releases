@@ -1,2 +1,2 @@
 # recent-releases
- A project I made to showcase my latest releases from my bands
+ A project to showcase my latest releases from my bands
